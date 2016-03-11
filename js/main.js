@@ -8,7 +8,7 @@ var $show = $('ul li:last-child');
 $header.addClass('masthead');
 $('h1 big-heading').remove();
 $h1.addClass('logo');
-$main.addClass ('wrapper');
+$main.addClass('wrapper');
 $('p:first-child').addClass('intro');
 $h2.addClass('slug-head');
 $('main ul').addClass('slug-list');
